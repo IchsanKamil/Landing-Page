@@ -1,0 +1,35 @@
+body {
+	padding-top: 70px;
+	background-image: url(aa/fox.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+.jumbotron {
+	color: #2c3e50
+}
+
+.navbar-inverse {
+	background: #2c3e50;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+	color: white;
+}
+
+.navbar-inverse .navbar-brand {
+	color: white;
+}
+
+#center {
+	text-align: center;
+	padding: 15%;
+	color: white;
+}
+
+.navbar {
+    background-color: transparent;
+    background: transparent;
+  }
+  
+ .navbar li { color: #000 }
